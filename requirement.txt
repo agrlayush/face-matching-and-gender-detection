@@ -1,0 +1,9 @@
+tensorflow==2.10
+keras==2.10
+deepface
+face_recognition
+opencv-python
+numpy
+matplotlib
+pillow
+dlib
